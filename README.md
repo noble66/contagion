@@ -1,0 +1,3 @@
+contagion
+=========
+Ferguson contagion analysis
